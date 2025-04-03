@@ -1,2 +1,3 @@
-# -Escatologia-
-&lt;Inimigo Escatológico&lt;
+<#Escatologia
+<Inimigo Escatológico
+<
